@@ -1,6 +1,6 @@
 program main
 	implicit none
-	
-	write(*,*)	"hello, world."
+
+	write(*,*)	"Fortran Hello, World."
 
 end
